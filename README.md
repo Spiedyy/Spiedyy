@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-* 💼 Second year student
+* 💼 Third year student
 * 🌱 Learning React/Prisma
 * ⚒️ HTML/CSS/JavaScript
