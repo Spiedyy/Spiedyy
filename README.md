@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 -->
 
 * 💼 Second year student
-* 🌱 Learning React/C#/C++
+* 🌱 Learning React/Prisma
 * ⚒️ HTML/CSS/JavaScript
