@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Spiedy, Student at The Bit Academy of Purmerend
+I am Spiedy, Student at The Bit Academy of Amsterdam
 
 <!--
 **Spiedyy/Spiedyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
